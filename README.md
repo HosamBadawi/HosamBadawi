@@ -61,13 +61,14 @@ Dynamic AI & Automation Engineer specializing in **intelligent automation**, **l
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HosamBadawi&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=HosamBadawi&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HosamBadawi&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HosamBadawi&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HosamBadawi&theme=radical)
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HosamBadawi&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
 
 ---
 
