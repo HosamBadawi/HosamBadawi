@@ -6,30 +6,32 @@ on:
   workflow_dispatch:
   push:
     branches:
-    - main
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
-      
+        uses: actions/checkout@v4
+
+      # Snake and contribution dots are recoloured to match the palette used on
+      # hosambadawi.github.io: accent #5B8DEF on #121418 surfaces.
       - name: Generate Snake
         uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#4372D4&color_dots=#EBEDF0,#C6D6F5,#9DB8EE,#6E92E3,#4372D4
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#5B8DEF&color_dots=#121418,#1E2A45,#2A4478,#3A66C7,#5B8DEF
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
+
       - name: Show build status
         run: git status
-      
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
