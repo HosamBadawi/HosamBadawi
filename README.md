@@ -30,14 +30,12 @@ Cairo, Egypt   ·   Open to AI architecture roles   ·   Arabic & English
 
 ## Flagship systems
 
-<div align="center">
-
-[![Growth Engine](https://github-readme-stats.vercel.app/api/pin/?username=HosamBadawi&repo=Growth-Engine&bg_color=121418&title_color=5B8DEF&text_color=98A0AB&icon_color=5B8DEF&border_color=22262D&border_radius=14)](https://github.com/HosamBadawi/Growth-Engine)
-[![YouTube Shorts Studio](https://github-readme-stats.vercel.app/api/pin/?username=HosamBadawi&repo=Youtube-Shorts-Studio&bg_color=121418&title_color=5B8DEF&text_color=98A0AB&icon_color=5B8DEF&border_color=22262D&border_radius=14)](https://github.com/HosamBadawi/Youtube-Shorts-Studio)
-
-</div>
-
 ### [Growth Engine](https://github.com/HosamBadawi/Growth-Engine) &nbsp;·&nbsp; nine-agent outbound automation
+
+[![Stars](https://img.shields.io/github/stars/HosamBadawi/Growth-Engine?style=flat-square&color=121418&labelColor=0B0C0E&logo=github&logoColor=5B8DEF)](https://github.com/HosamBadawi/Growth-Engine/stargazers)
+![Language](https://img.shields.io/github/languages/top/HosamBadawi/Growth-Engine?style=flat-square&color=121418&labelColor=0B0C0E)
+![Code size](https://img.shields.io/github/languages/code-size/HosamBadawi/Growth-Engine?style=flat-square&color=121418&labelColor=0B0C0E)
+![Last commit](https://img.shields.io/github/last-commit/HosamBadawi/Growth-Engine?style=flat-square&color=121418&labelColor=0B0C0E)
 
 An autonomous B2B prospecting system. Nine specialised agents discover leads, research them, write
 personalised outreach with a local LLM, send it under hard-coded deliverability rules, then watch
@@ -59,6 +57,11 @@ anything goes live.
 `FastAPI` `APScheduler` `SQLAlchemy 2.0` `Alembic` `Ollama` `aiogram 3` `PostgreSQL` `Pytest`
 
 ### [YouTube Shorts Studio](https://github.com/HosamBadawi/Youtube-Shorts-Studio) &nbsp;·&nbsp; self-hosted multimodal video pipeline
+
+[![Stars](https://img.shields.io/github/stars/HosamBadawi/Youtube-Shorts-Studio?style=flat-square&color=121418&labelColor=0B0C0E&logo=github&logoColor=5B8DEF)](https://github.com/HosamBadawi/Youtube-Shorts-Studio/stargazers)
+![Language](https://img.shields.io/github/languages/top/HosamBadawi/Youtube-Shorts-Studio?style=flat-square&color=121418&labelColor=0B0C0E)
+![Code size](https://img.shields.io/github/languages/code-size/HosamBadawi/Youtube-Shorts-Studio?style=flat-square&color=121418&labelColor=0B0C0E)
+![Last commit](https://img.shields.io/github/last-commit/HosamBadawi/Youtube-Shorts-Studio?style=flat-square&color=121418&labelColor=0B0C0E)
 
 Turns one long-form video into multiple publish-ready vertical Shorts, on hardware you already own.
 
@@ -142,10 +145,13 @@ Nothing leaves the machine, which makes it private by construction and free per 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HosamBadawi&show_icons=true&rank_icon=github&bg_color=121418&title_color=5B8DEF&text_color=98A0AB&icon_color=5B8DEF&border_color=22262D&ring_color=5B8DEF&border_radius=14&card_width=430" height="180" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com?user=HosamBadawi&background=121418&border=22262D&stroke=22262D&ring=5B8DEF&fire=5B8DEF&currStreakNum=E9EBEE&sideNums=E9EBEE&currStreakLabel=5B8DEF&sideLabels=98A0AB&dates=7A828E&border_radius=14" height="180" alt="Contribution streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HosamBadawi&theme=github_dark" width="100%" alt="Profile summary" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HosamBadawi&layout=compact&langs_count=10&bg_color=121418&title_color=5B8DEF&text_color=98A0AB&border_color=22262D&border_radius=14&card_width=430" alt="Most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HosamBadawi&theme=github_dark" height="200" alt="Contribution stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HosamBadawi&theme=github_dark&utcOffset=3" height="200" alt="Most productive time of day" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HosamBadawi&theme=github_dark" height="200" alt="Repositories per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HosamBadawi&theme=github_dark" height="200" alt="Most committed language" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HosamBadawi&bg_color=121418&color=E9EBEE&line=5B8DEF&point=E9EBEE&area=true&area_color=5B8DEF&title_color=5B8DEF&border_color=22262D&custom_title=Contribution%20activity&radius=14&height=300" alt="Contribution activity graph" />
 
