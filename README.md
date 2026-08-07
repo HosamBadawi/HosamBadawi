@@ -6,7 +6,7 @@
 
 <br>
 
-[![Book a call](https://img.shields.io/badge/Book_a_call-4372D4?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/hosam_mahmoud)
+[![Book a call](https://img.shields.io/badge/Book_a_call-4372D4?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/sam_mahmoud)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121418?style=for-the-badge&logo=githubpages&logoColor=5B8DEF&labelColor=0B0C0E)](https://hosambadawi.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-121418?style=for-the-badge&logo=linkedin&logoColor=5B8DEF&labelColor=0B0C0E)](https://www.linkedin.com/in/hosam-mahmoud-ibrahim/)
 [![Email](https://img.shields.io/badge/Email-121418?style=for-the-badge&logo=gmail&logoColor=5B8DEF&labelColor=0B0C0E)](mailto:hosam2mahmoud@gmail.com)
