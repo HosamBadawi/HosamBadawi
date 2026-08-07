@@ -229,7 +229,7 @@ business strategy.
 Scoping an agentic architecture, moving an LLM prototype into production, or cutting inference
 cost by self-hosting. Pick a slot and let's get into it.
 
-[![Book a call](https://img.shields.io/badge/Book_a_30--min_call-4372D4?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/hosam_mahmoud)
+[![Book a call](https://img.shields.io/badge/Book_a_30--min_call-4372D4?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/sam_mahmoud)
 [![Portfolio](https://img.shields.io/badge/hosambadawi.github.io-121418?style=for-the-badge&logo=githubpages&logoColor=5B8DEF&labelColor=0B0C0E)](https://hosambadawi.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-121418?style=for-the-badge&logo=linkedin&logoColor=5B8DEF&labelColor=0B0C0E)](https://www.linkedin.com/in/hosam-mahmoud-ibrahim/)
 [![Email](https://img.shields.io/badge/hosam2mahmoud@gmail.com-121418?style=for-the-badge&logo=gmail&logoColor=5B8DEF&labelColor=0B0C0E)](mailto:hosam2mahmoud@gmail.com)
